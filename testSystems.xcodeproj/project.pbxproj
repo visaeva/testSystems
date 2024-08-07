@@ -11,6 +11,7 @@
 		4C60658C2C63892B00086FF0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C60658B2C63892B00086FF0 /* ContentView.swift */; };
 		4C60658E2C63892F00086FF0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C60658D2C63892F00086FF0 /* Assets.xcassets */; };
 		4C6065912C63892F00086FF0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4C6065902C63892F00086FF0 /* Preview Assets.xcassets */; };
+		4C6065982C63910A00086FF0 /* MainScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C6065972C63910900086FF0 /* MainScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		4C60658B2C63892B00086FF0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4C60658D2C63892F00086FF0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4C6065902C63892F00086FF0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4C6065972C63910900086FF0 /* MainScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				4C6065892C63892B00086FF0 /* testSystemsApp.swift */,
 				4C60658B2C63892B00086FF0 /* ContentView.swift */,
+				4C6065972C63910900086FF0 /* MainScreen.swift */,
 				4C60658D2C63892F00086FF0 /* Assets.xcassets */,
 				4C60658F2C63892F00086FF0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C6065982C63910A00086FF0 /* MainScreen.swift in Sources */,
 				4C60658C2C63892B00086FF0 /* ContentView.swift in Sources */,
 				4C60658A2C63892B00086FF0 /* testSystemsApp.swift in Sources */,
 			);

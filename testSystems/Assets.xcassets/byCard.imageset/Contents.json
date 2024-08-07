@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "BadgeTempXS — копия 2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "BadgeTempXS@2x — копия 2.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "BadgeTempXS@3x — копия 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
