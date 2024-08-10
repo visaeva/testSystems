@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "Image — копия 12.png",
+      "filename" : "Card-image — копия.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "Image@2x — копия 12.png",
+      "filename" : "Card-image@2x — копия.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "Image@3x — копия 12.png",
+      "filename" : "Card-image@3x — копия.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
